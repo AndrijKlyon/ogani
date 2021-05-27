@@ -1,0 +1,122 @@
+/* Font size */
+.box-bode, table {
+    font-size: 14px;
+}
+/* Buttons  */
+form.form-inline, div.form-inline {
+    position: absolute;
+    top: 14px; left: 170px;
+}
+
+/* Dropzone Upload images */
+#total-progress {
+    opacity: 0;
+    transition: opacity 0.3s linear;
+}
+
+div.table .file-row:nth-child(odd) {
+    background: #f9f9f9;
+}
+div.table .file-row {
+    display: table-row;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div.table {
+    display: table;
+}
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+div.table .file-row > div {
+    display: table-cell;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    padding: 8px;
+}
+
+/* End upload images */
+/* select2 */
+
+.select2-container--default .select2-selection--multiple, .dropdown-wrapper {
+    border-radius: 0px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #3c8dbc;
+    border-color: #367fa9;
+    padding: 1px 10px;
+    color: #fff;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    margin-right: 5px;
+    color: rgba(255,255,255,0.7);
+}
+
+.select2-container .select2-search--inline .select2-search__field {
+    padding-left: 10px;
+}
+
+.select2-container--default .select2-selection--single {
+    border-radius: 0px;
+}
+
+.select2-container .select2-selection--single {
+    height: 32px;
+}
+
+.select2-dropdown {
+    border-radius: 0px;
+}
+
+/* mailbox */
+.form-control-feedback {
+    pointer-events: auto!important;
+}
+.form-control-feedback:hover {
+    cursor: pointer;
+}
+
+h3.box-title {
+    font-size: 20px!important;
+    font-weight: bold;
+}
+
+.btn-vk {
+    background-color: #3c8dbc;
+}
+
+.btn-vk:hover {
+    background-color: #357ca5;
+}
+
+.btn-instagram {
+    background-color: #e08e0b;
+}
+
+.btn-instagram:hover {
+    background-color: #db8b0b;
+}
+
+.btn-google {
+    background-color: #dd4b39;
+}
+
+.btn-google:hover {
+    background-color: #d33724;
+}
+
+#delete-all-items {
+    margin: 0px 0 3px 0;
+}
+
+.alert {
+    padding-left: 20px;
+}

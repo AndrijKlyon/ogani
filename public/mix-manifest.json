@@ -1,0 +1,15 @@
+{
+    "/js/custom_admin.js": "/js/custom_admin.js",
+    "/css/basetemplate.css": "/css/basetemplate.css",
+    "/js/basetemplate.js": "/js/basetemplate.js",
+    "/css/custom.css": "/css/custom.css",
+    "/js/custom.js": "/js/custom.js",
+    "/js/products.js": "/js/products.js",
+    "/js/blog.js": "/js/blog.js",
+    "/css/admin.css": "/css/admin.css",
+    "/js/admin.js": "/js/admin.js",
+    "/css/custom_admin.css": "/css/custom_admin.css",
+    "/js/dropzone.js": "/js/dropzone.js",
+    "/css/custom_mailbox.css": "/css/custom_mailbox.css",
+    "/js/custom_mailbox.js": "/js/custom_mailbox.js"
+}
